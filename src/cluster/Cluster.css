@@ -1,0 +1,11 @@
+.Cluster{}
+.ServerList{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ServerList li {
+    width: auto;
+}
