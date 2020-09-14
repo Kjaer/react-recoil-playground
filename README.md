@@ -1,6 +1,18 @@
-# New Project
+# React-Recoil PLayground
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+I am developing a small but scalable React.js application. The intention is playing with Recoil.
+on the otherside, refreshing some css knowledge as well like grids. In order to accomplish these goals. I am gonna keep
+track of todo list 
+
+## Achievements
+
+- [ ] Develop small but scalable React app
+- [ ] Integrate Recoil and expose every feature (this todo going to expand when I discover)
+- [ ] Use latest CSS techniques
+    - [ ] CSS Grids for layout 
+- [ ] Go through HTML5 tags and find use cases for rare-used tags
 
 ## Available Scripts
 
@@ -23,7 +35,3 @@ Builds a static copy of your site to the `build/` folder.
 Your app is ready to be deployed!
 
 **For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" or "@snowpack/plugin-parcel" to your `snowpack.config.json` config file.
-
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
